@@ -76,17 +76,17 @@
 		<link>
 			<name>BSP</name>
 			<type>2</type>
-			<location>C:/projects/packtBookRTOS/BSP</location>
+			<location>D:/Documents/STM32CubeIDE/BookRTOS/Hands-On-RTOS-with-Microcontrollers/BSP</location>
 		</link>
 		<link>
 			<name>Drivers</name>
 			<type>2</type>
-			<location>C:/projects/packtBookRTOS/Drivers</location>
+			<location>D:/Documents/STM32CubeIDE/BookRTOS/Hands-On-RTOS-with-Microcontrollers/Drivers</location>
 		</link>
 		<link>
 			<name>Middleware</name>
 			<type>2</type>
-			<location>C:/projects/packtBookRTOS/Middleware</location>
+			<location>D:/Documents/STM32CubeIDE/BookRTOS/Hands-On-RTOS-with-Microcontrollers/Middleware</location>
 		</link>
 	</linkedResources>
 </projectDescription>
